@@ -1,0 +1,32 @@
+# Django 核心框架
+Django==4.2.5
+
+# Django REST Framework
+djangorestframework==3.14.0
+
+# 跨域支持
+django-cors-headers==4.3.1
+
+# MySQL 数据库驱动
+pymysql==1.1.0
+
+# Redis 缓存支持
+django-redis==5.4.0
+
+# JWT 认证支持
+PyJWT==2.8.0
+
+# PDF 报告生成
+reportlab==4.0.8
+
+# Excel 文件处理（数据操作）
+pandas>=2.0.0
+
+# Excel 文件读写
+openpyxl==3.1.2
+
+# 数据库连接池
+DBUtils==3.0.3
+
+# Redis 客户端
+redis>=4.0.0
